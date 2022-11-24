@@ -4,10 +4,10 @@ import wget
 
 
 credentials = {}
-credentials['CONSUMER_KEY'] = "zoF35XEiO0f67cQbJyBGvDiAJ"
-credentials['CONSUMER_SECRET'] = "ve1ofPAv8LY6LhVzvfjrd76ItMx4XAAczXSPnkLxDEIQuXPcmk"
-credentials['ACCESS_TOKEN'] = "2955827764-FlCWbSPp6NAKk3Kn1doEAeLZcQiLBoiPgWcjOF5"
-credentials['ACCESS_SECRET'] = "LWKhEXFQBC8N4xp2fG72a78x8YT6clNp770TgHBHfczSz"
+credentials['CONSUMER_KEY'] = ""
+credentials['CONSUMER_SECRET'] = ""
+credentials['ACCESS_TOKEN'] = ""
+credentials['ACCESS_SECRET'] = ""
 
 
 # Filter out unwanted data
